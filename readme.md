@@ -5,3 +5,4 @@ Here is a link to a deployed version: https://activity-knot.herokuapp.com/
 
 This repository is a clone of the one that my group and I worked on. I cloned it
 when the time was up. This is why there are no branches and no commitment history here.
+
